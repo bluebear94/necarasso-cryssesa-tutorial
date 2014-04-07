@@ -35,6 +35,7 @@
 *.vrb
 *.xdy
 *.tdo
+main_html
 
 ### Linux ###
 *~
